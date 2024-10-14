@@ -57,7 +57,9 @@ Nama : Ghani Mandala Putra, Nim 2409116042, Mini Proyek 2
 - disini saya juga menggunakan exit untuk mengakhiri program
 - lalu fungsi login() pada line 145 adalah untuk menjalankan program
 
+![Screenshot 2024-10-15 042949](https://github.com/user-attachments/assets/d8803927-ecd9-4225-a1c9-df23969f1640)
   
+![Screenshot 2024-10-15 043024](https://github.com/user-attachments/assets/9f01b612-51d7-446b-9ad3-9f5fd79f6aa4)
 
-
-
+![Screenshot 2024-10-15 043106](https://github.com/user-attachments/assets/3e80314c-21a8-4158-bad0-5489ce03f149)
+- Outputnya pertama saya menjadi admin lalu menambahkan PS 5 sebanyak 1, lalu saya menjadi user dan menyewa ps 5
